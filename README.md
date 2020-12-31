@@ -5,7 +5,7 @@
 <a href="#"><img title="T-Phisher" src=""</a>
 </p>
 <p align="center">
-<a href="https://github.com/Venu-Sarathy"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Venu-Sarathy"><img title="Author" src="https://img.shields.io/badge/Author-venusarathy-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
@@ -34,7 +34,7 @@ apt update ; apt install git curl php openssh-server -y ; git clone git://github
 
 ### <<< If you copy , Then Give me The Credits >>>
 
-## Features :
+## Feature
 #### [+] Latest Login Pages !
 #### [+] New Instagram Auto Follower Page !
 #### [+] 4 Port Forwarding Options !
